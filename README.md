@@ -1,4 +1,5 @@
 By: Vinn Runkee Cañares
+BSCS 4-2
 
 ### Git Instructions for: Benedict, and Carl
 
